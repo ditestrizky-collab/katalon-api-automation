@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-VAL-001_Schema_Check</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5527be81-9158-43f5-b426-1dda4d6e0e99</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-USER-005-ResponseTime</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35197cc9-dcb3-41c6-82a8-040d4950d4c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-AUTH-004_Login_Blank_Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c215e776-5434-4d35-8921-19b39f6ffc30</testCaseGuid>
+</TestCaseEntity>

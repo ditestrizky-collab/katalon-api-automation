@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-USER-004_getUser_notExist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bee19c0-a220-4423-abb9-3f2a422088f2</testCaseGuid>
+</TestCaseEntity>

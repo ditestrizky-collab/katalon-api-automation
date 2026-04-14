@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-VAL-002_Required_Fields_Present</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bda509c-a693-4b76-a13d-1b9980bca6d4</testCaseGuid>
+</TestCaseEntity>

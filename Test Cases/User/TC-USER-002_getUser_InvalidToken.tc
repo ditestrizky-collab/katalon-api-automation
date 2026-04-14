@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-USER-002_getUser_InvalidToken</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f50f55b-65b0-4470-b597-b116c944fdc0</testCaseGuid>
+</TestCaseEntity>

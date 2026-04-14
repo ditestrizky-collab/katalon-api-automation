@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-USER-001_getUser_ValidToken</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4df3615-aebb-4ef8-b426-c611971d6d5f</testCaseGuid>
+</TestCaseEntity>

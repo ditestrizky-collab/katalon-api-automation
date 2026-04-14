@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-USER-003_getUser_ExpiredToken</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a4595f4-7f52-437c-86e2-13e06a3570bb</testCaseGuid>
+</TestCaseEntity>

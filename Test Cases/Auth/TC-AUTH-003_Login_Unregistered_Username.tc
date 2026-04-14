@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-AUTH-003_Login_Unregistered_Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0edc1161-4e1e-4bb8-98bc-5d5dda32fde6</testCaseGuid>
+</TestCaseEntity>
